@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@babylonjs/core": "^4.2.0",
+    "source-map-loader": "^2.0.1",
+    "webpack": "^5.26.3",
+    "webpack-cli": "^4.5.0",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "scripts": {
+    "start": "webpack serve"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^5.3.1"
+  }
+}

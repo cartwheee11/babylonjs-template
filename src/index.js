@@ -12,7 +12,7 @@ camera.attachControl();
 camera.setTarget(new Vector3(0, 0, 0));
 
 //box
-const box = Mesh.CreateBox('box name', 1, scene)
+const box = Mesh.CreateBox('box name', 1, scene);
 
 //light
 const light = new DirectionalLight('name', new Vector3(-1, -2, -3), scene);
